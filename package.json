@@ -1,0 +1,12 @@
+{
+  "name": "rest-api-books",
+  "version": "1.0.0",
+  "description": "REST API for managing books (Task 3)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
